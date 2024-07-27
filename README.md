@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-I'm making software because it's fun!
+I make software because it's fun!
 
 Some of my projects:
 - [rlnk](https://github.com/Sunesu/rlnk) - deskop shortcuts for roblox games
