@@ -33,7 +33,7 @@ I hope you'll find them useful in some way. They are all MIT licensed so feel fr
 If you like what I do (or not), please consider donating.
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sunesu)
-![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+<a href="https://copy.sunesu.workers.dev/87WYorLcfFjP5W7rLtRWrpiCWAWyEtewrSm8qXi76yjHVTsCC9CrX2vUBk951MRmRBbskVY3pk5Gi3jQv23dyaXi6rSpaiA?title=%58%4d%52%20%61%64%64%72%65%73%73&feedback=%E2%9D%A4" target="_blank"><img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /></a>
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <br><br>
